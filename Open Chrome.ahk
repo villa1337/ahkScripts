@@ -1,0 +1,1 @@
+﻿^1::run "https://en.wikipedia.org/wiki/Special:Random"

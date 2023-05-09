@@ -1,0 +1,10 @@
+<!-- Configure one or more thrift native service(s) here for Parascript analysis -->
+
+<imageAnalysisConfig>
+    <imageAnalysisServers>
+        <imageAnalysisServerHost>
+            <hostname>localhost</hostname>
+            <port>8080</port>
+        </imageAnalysisServerHost>
+    </imageAnalysisServers>
+</imageAnalysisConfig>

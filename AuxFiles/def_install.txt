@@ -1,0 +1,49 @@
+# 
+# Recording session from Wed Apr 05 14:05:39 CDT 2023
+# Installer file D:\Tickets\FRD-1212\bin\..\etc\installer\installer.groovy
+# Installer file modified Mon Mar 20 16:37:28 CDT 2023
+# 
+# 0 >> What kind of installation is this?
+1
+# 1 >> Select the type for database?
+1
+# 2 >> Enter hostname or IP address for database?
+lusr2233
+# 3 >> How do you want to connect?
+1
+# 4 >> Enter the port for database? (default: 1433)
+1433
+# 5 >> How do you want to authenticate?
+1
+# 6 >> Enter the username for database? (default: sa)
+sa
+# 7 >> Enter the password for database?
+M00nch33$3
+# 8 >> Enter the logical database name?
+FNB_AML_STG
+# 9 >> Would you like to customize the JDBC URL? (default: n)
+n
+# 10 >> Would you like to test these connection settings? (default: y)
+y
+# 11 >> Do you want to use encrypted database credentials? (default: y)
+y
+# 12 >> Enter the HTTP port for Tomcat? (default: 8080)
+8080
+# 13 >> Enter the shutdown port for Tomcat? (default: 8005)
+8005
+# 14 >> Enter the port for JMX? (default: 1099)
+1099
+# 15 >> Do you want to require a password to connect to JMX? (default: y)
+y
+# 16 >> Enter the path and filename of the new tomcat installation zip?
+D:\apache-tomcat-8.5.83-windows-x64.zip
+# 17 >> Do you want to DROP and RECREATE all of the AML database tables? (default: n)
+n
+# 18 >> Do you want to enable the HOST Web Service? (default: n)
+n
+# 19 >> Do you want to enable the OFAC Search Web Service? (default: n)
+n
+# 20 >> Do you want to install this as a Windows service? (default: n)
+n
+# 21 >> Ready to (I)nstall the above changes? Or (Q)uit? (default: Q)
+I
